@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "vast-node-421918",
+  "private_key_id": "2433a23f7c6ed58587bdea05221c56834d9e540b",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCXAxtH8I6+scJQ\nXXAYABlo9J7qsbpMc/YmJhcd42njlYPhMQyxyVbR29GDjLZbEKTlt2iGHqHey7Nm\nHCd2bEOQiAmudWZXCPrGfghU0RXJNOmc3BUY+I3uROPywATPRfQ+TDa9Ohu8qq8I\nYJl/dmZVy94zH6sBrhLQI/f4KqKgLgx6t6zjj8gWnoRLmaxpHkpxy7wg1d9Xm5Z3\njK1HBkUFg2waTgqc4k6STa3Jfd1fGrsTwC51VWmn280uDBJrxu8SnJmQ/3NfaWTK\nLvcBd1gtn0gTuer55zWN47PCwi6cDAwq3Jj9OoY+PLlDwMhMEjWJB9HVT44KdIEe\nqNVyWDPTAgMBAAECggEABE1PWqZMurv/qCBxUA24q5fEazUy9HidO4r8P5q56oTY\n4/JsxSfSNFpJxrCchU2dFPo7nQ6EV/9/ldoZebMt3ZEyjWjEyJf15O+0Nw5Zy4iZ\nWyGd7D8wc+g8gi7cNDdu9NNg/9UG80H9iISP+uSZl7oeE2DEk2CtIobTypsUVPHP\nr0/j+vcFlHGC8ehXmAXFRNCzTowHrx9TTuveBmdyAdCT5eWIvwJrD3cZlNFfs/Ij\nieWmB0zne6XOdDichDfYG5epmEUg+L9DYQRUW9V+zBBuvqmDdHRJK9GgCdemwk5U\n5cP+MILA/+Gw99TjXYTpUJRZyTRkZdCVWdNBY5yu6QKBgQDFNoLpGUQbRJ3UJ5tG\naw0X5Lkeg8ymNhlm4r1xpVZInmyTqN5LIylkynUcOggpPGKVgE1BNizYhT6qCdnV\nByqRW51UbPYodfT261pLcjjsRGNg8fBnpyp5qYOt5JyoWqh2so2D+VeI1yd5/8pM\nr5FZHI7eVovQKNfsyo3DxaiQtQKBgQDEBvjw7AbEV0TrdJR5acrQ16tZS2eHZ5Mh\nJme3RnBxmm2uSGD895MPF8OVRhuLpFFg8XyJBSqnRdBEu0qu0DMDtI9+MPacg65G\nnb1O+3NDP1AV4FimBMCf59S67+CbyfJL0vWMyZ5/cNxdFeknxrKoY3fw822MfYSP\nnEizN9nvZwKBgQC+gKDGoOR8XrUDOlsxE7nrKcN06aYnrLyu+To87JTDw11o6cgJ\n1uZmeXfVE23Mv4sPlYeLBdUeNuBIiwmEUc7Z6SC6bCMBBKjkWIa5uJWqDYneHPe4\neO975LbRpLN7oU94kZRINvVKt2Nn4yI9H5+M8BxGRF38b2fdUfDNe0MQvQKBgANu\nR88XomqvSFKCoNKbKmSLUcFnU3GIO4f5/xizD+a9GCxTsfbbcmRyOwcSygqgnpf+\nwfo37+4rh6CcUotKs4neECDaRIaqu1MbEaQfPH4xznoDiimlraVezldTOXAgkbAI\nCiojoTWDySeL6Z+7l4bg7sl1yTYLQFWvG4qfcJ4DAoGAKbWwtwkfdm3Jr+/Rq0qD\nuuafxe0Uk2aHlbjAGIt7qUK0MCLglHWGlbj04XfEfmRxquVLVRDm0TPX8qUUJlCr\nT//Z3JUjCIC7mX6+g66I1T6xpOE2yk+Gcll1DqKBVuX3KvrWSOP6n+N1D6yohzeP\ngCbV7D/mEknqu44cBKWsd2I=\n-----END PRIVATE KEY-----\n",
+  "client_email": "trade-945@vast-node-421918.iam.gserviceaccount.com",
+  "client_id": "105584568031233153922",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/trade-945%40vast-node-421918.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
